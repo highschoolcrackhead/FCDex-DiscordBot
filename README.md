@@ -1,6 +1,6 @@
 # FCDex Discord Bot
 
-[![Discord server](https://img.shields.io/discord/1152750129351237642)](https://discord.gg/4yBPU2UwWA)
+[![Discord Server](https://img.shields.io/discord/1152750129351237642?logo=discord)](https://discord.gg/4yBPU2UwWA)
 [![Pre-commit](https://github.com/laggron42/BallsDex-DiscordBot/actions/workflows/pre-commit.yml/badge.svg)](https://github.com/highschoolcrackhead/FCDex-DiscordBot/actions/workflows/pre-commit.yml)
 [![discord.py](https://img.shields.io/badge/discord-py-blue.svg)](https://github.com/Rapptz/discord.py)
 [![Patreon](https://img.shields.io/badge/Patreon-donate-orange.svg)](https://patreon.com/fcdex)

@@ -1,39 +1,32 @@
-# BallsDex Discord Bot
+# FCDex Discord Bot
 
-[![Discord server](https://img.shields.io/discord/1049118743101452329?color=7489d5&logo=discord&logoColor=ffffff)](https://discord.gg/Qn2Rkdkxwc)
-[![Pre-commit](https://github.com/laggron42/BallsDex-DiscordBot/actions/workflows/pre-commit.yml/badge.svg)](https://github.com/laggron42/BallsDex-DiscordBot/actions/workflows/pre-commit.yml)
-[![Issues](https://img.shields.io/github/issues/laggron42/BallsDex-DiscordBot)](https://github.com/laggron42/BallsDex-DiscordBot/issues)
+[![Discord server](https://img.shields.io/discord/1152750129351237642?color=7489d5&logo=discord&logoColor=ffffff)](https://discord.gg/4yBPU2UwWA)
+[![Pre-commit](https://github.com/laggron42/BallsDex-DiscordBot/actions/workflows/pre-commit.yml/badge.svg)](https://github.com/highschoolcrackhead/FCDex-DiscordBot/actions/workflows/pre-commit.yml)
 [![discord.py](https://img.shields.io/badge/discord-py-blue.svg)](https://github.com/Rapptz/discord.py)
-[![Black coding style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
-[![Patreon](https://img.shields.io/badge/Patreon-donate-orange.svg)](https://patreon.com/retke)
+[![Patreon](https://img.shields.io/badge/Patreon-donate-orange.svg)](https://patreon.com/fcdex)
 
-BallsDex is a bot for collecting countryballs on Discord and exchange them with your friends!
+FCDex Bot is a discord bot for catching, collecting, trading football clubs! FCDex is a fork of [BallsDex](https://github.com/Ballsdex-Team/BallsDex-DiscordBot) with extra features and commands!
 
-You can invite the official bot [here](https://discord.com/api/oauth2/authorize?client_id=999736048596816014&permissions=537193536&scope=bot%20applications.commands).
+You can invite the official bot [here](https://discord.com/oauth2/authorize?client_id=1165507477975093308&scope=applications.commands+bot&permissions=116800).
 
 ## Discord server
 
-For help installing the bot, questions, suggestions to improve or contributions, feel free to join the official community of developers and self-hosters!
+Join the official server of FC Dex!
 
-[![Discord server](https://discord.com/api/guilds/1255250024741212262/embed.png?style=banner3)](https://discord.gg/PKKhee4fvy)
+[![Discord server](https://discord.com/api/guilds/1152750129351237642/embed.png?style=banner3)](https://discord.gg/4yBPU2UwWA)
 
-> You can also find the server of our official Ballsdex bot here:
+> Official server of Ballsdex bot:
 > 
 > [![Discord server](https://discord.com/api/guilds/1049118743101452329/embed.png?style=banner2)](https://discord.gg/Qn2Rkdkxwc)
 
 ## Suggestions, issues and bug reports
 
-Any bugs, suggestions or issues can be raised by creating an issue on this repo.
-
-## Documentation
-
-You can learn how to setup Ballsdex and use all of its tools on the
-[wiki](https://github.com/laggron42/BallsDex-Discordbot/wiki/)!
-More sections are added progressively.
+Any bugs, suggestions or issues can be raised by creating an issue on this repo, or by creating a ticket in the discord server.
 
 ## Supporting
 
-If you appreciate my work, you can support me on my [Patreon](https://patreon.com/retke)!
+Support El Laggron, the creator of BallsDex, on his [Patreon](https://patreon.com/retke)!
+Support FCDex on our [Patreon](https://patreon.com/fcdex)!
 
 ## Contributing
 
